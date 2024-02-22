@@ -41,3 +41,21 @@ Use the provided python script to produce either TT or TR decomposition figures.
 
 ### TND style figures
 Use the provided Latex baselines.
+
+### Requirements
+#### Geometric tikz figures
+- Python 3.6+
+- numpy
+
+#### TND style figures 
+- tikz-network
+
+## Motivation
+
+When working on TD I found that there were no good tools to produce high quality plots of TD in either TND or, 
+even less so, in their geometric form. 
+This package aims to provide a simple way to produce high quality figures of tensor decompositions. 
+Currently, it is a bit of a hack job but if you need to produce figures or equations that look somewhat like the cases 
+that are shown above it will do the job. In the future, I aim to clean this up and make it a bit more user-friendly. 
+I do not have a very strong background in TD or TND so please feel free to contribute to this project or notify me of 
+any errors.
