@@ -50,6 +50,11 @@ Use the provided Latex baselines.
 #### TND style figures 
 - tikz-network
 
+## Existing Tools:
+- [mptikz - graphical tensor notation for LuaTeX](https://github.com/dsuess/mptikz)
+- [PyZX](https://github.com/Quantomatic/pyzx)
+- [QUIMB drawing tools](https://quimb.readthedocs.io/en/latest/tensor-drawing.html)
+
 ## Motivation
 
 When working on TD I found that there were no good tools to produce high quality plots of TD in either TND or, 
